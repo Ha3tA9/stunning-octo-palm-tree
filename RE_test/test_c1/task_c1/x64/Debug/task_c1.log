@@ -1,0 +1,19 @@
+﻿  Code1.c
+D:\VS2022_Code\task_c1\task_c1\Code1.c(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\VS2022_Code\task_c1\task_c1\Code1.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(19,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(20,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(20,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(21,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(22,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(23,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(24,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(24,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(25,9): message : 请考虑在格式字符串中使用“%zd”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(26,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\task_c1\task_c1\Code1.c(26,9): message : 请考虑在格式字符串中使用“%zd”
+  task_c1.vcxproj -> D:\VS2022_Code\task_c1\x64\Debug\task_c1.exe
