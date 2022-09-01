@@ -1,0 +1,5 @@
+﻿D:\OFFICE\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(task_8_30.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test_8_30.c
+D:\VS2022_Code\test_8_30\test_8_30\test_8_30.c(188,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\test_8_30\test_8_30\test_8_30.c(188,9): message : 请考虑在格式字符串中使用“%zd”
+  test_8_30.vcxproj -> D:\VS2022_Code\test_8_30\x64\Debug\test_8_30.exe
