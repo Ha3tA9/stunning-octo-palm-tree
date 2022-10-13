@@ -1,0 +1,4 @@
+﻿  2_printf.cpp
+D:\VS2022_Code\Code_10_13_2\2.2\2_printf\2_printf\2_printf.cpp(14,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VS2022_Code\Code_10_13_2\2.2\2_printf\2_printf\2_printf.cpp(21,11): warning C4305: “=”: 从“double”到“float”截断
+  2_printf.vcxproj -> D:\VS2022_Code\Code_10_13_2\2.2\2_printf\x64\Debug\2_printf.exe

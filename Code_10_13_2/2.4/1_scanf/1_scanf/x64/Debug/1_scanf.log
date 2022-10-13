@@ -1,0 +1,4 @@
+﻿  1_scanf.c
+D:\VS2022_Code\Code_10_13_2\2.4\1_scanf\1_scanf\1_scanf.c(1,1): warning C4828: 文件包含在偏移 0x273 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\VS2022_Code\Code_10_13_2\2.4\1_scanf\1_scanf\1_scanf.c(11,7): warning C4101: “c”: 未引用的局部变量
+  1_scanf.vcxproj -> D:\VS2022_Code\Code_10_13_2\2.4\1_scanf\x64\Debug\1_scanf.exe
