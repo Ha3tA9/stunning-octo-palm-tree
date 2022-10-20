@@ -1,0 +1,4 @@
+﻿  4_sizeof.c
+D:\VS2022_Code\Code_10_19_3\3.3\4_sizeof\4_sizeof\4_sizeof.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\VS2022_Code\Code_10_19_3\3.3\4_sizeof\4_sizeof\4_sizeof.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+  4_sizeof.vcxproj -> D:\VS2022_Code\Code_10_19_3\3.3\4_sizeof\x64\Debug\4_sizeof.exe
