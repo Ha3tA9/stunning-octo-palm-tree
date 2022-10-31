@@ -1,0 +1,4 @@
+﻿  OJ5.c
+D:\VS2022_Code\OJ5_10_24\OJ5\OJ5\OJ5.c(149,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS2022_Code\OJ5_10_24\OJ5\OJ5\OJ5.c(161,2): warning C4013: “gets”未定义；假设外部返回 int
+  OJ5.vcxproj -> D:\VS2022_Code\OJ5_10_24\OJ5\x64\Debug\OJ5.exe
