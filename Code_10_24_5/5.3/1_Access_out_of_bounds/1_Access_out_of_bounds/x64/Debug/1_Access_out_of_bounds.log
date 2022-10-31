@@ -1,0 +1,3 @@
+﻿  1_Access_out_of_bounds.cpp
+D:\VS2022_Code\Code_10_24_5\5.3\1_Access_out_of_bounds\1_Access_out_of_bounds\1_Access_out_of_bounds.cpp(10): error C4789: 缓冲区“a”(大小为 20 字节)将溢出；4 字节将在偏移 24 时开始写入
+D:\VS2022_Code\Code_10_24_5\5.3\1_Access_out_of_bounds\1_Access_out_of_bounds\1_Access_out_of_bounds.cpp(9): error C4789: 缓冲区“a”(大小为 20 字节)将溢出；4 字节将在偏移 20 时开始写入

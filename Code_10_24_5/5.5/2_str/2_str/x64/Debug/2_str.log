@@ -1,0 +1,4 @@
+﻿  2_str.c
+D:\VS2022_Code\Code_10_24_5\5.5\2_str\2_str\2_str.c(22,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\VS2022_Code\Code_10_24_5\5.5\2_str\2_str\2_str.c(24,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  2_str.vcxproj -> D:\VS2022_Code\Code_10_24_5\5.5\2_str\x64\Debug\2_str.exe
