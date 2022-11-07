@@ -1,0 +1,3 @@
+﻿  2_heap_stack.c
+D:\VS2022_Code\Code_10_31_6\6.4\2_heap_stack\2_heap_stack\2_heap_stack.c(11): warning C4172: 返回局部变量或临时变量的地址: c
+  2_heap_stack.vcxproj -> D:\VS2022_Code\Code_10_31_6\6.4\2_heap_stack\x64\Debug\2_heap_stack.exe
