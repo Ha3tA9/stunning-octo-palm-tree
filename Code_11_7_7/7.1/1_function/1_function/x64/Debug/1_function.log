@@ -1,0 +1,3 @@
+﻿  1_function.c
+D:\VS2022_Code\Code_11_7_7\7.1\1_function\1_function\func.h(1,1): warning C4828: 文件包含在偏移 0xee 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  1_function.vcxproj -> D:\VS2022_Code\Code_11_7_7\7.1\1_function\x64\Debug\1_function.exe
