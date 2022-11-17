@@ -1,0 +1,4 @@
+﻿  1_struct.c
+D:\VS2022_Code\Code_11_11_8\8.1\1_struct\1_struct\1_struct.c(17,1): warning C4305: “初始化”: 从“double”到“float”截断
+D:\VS2022_Code\Code_11_11_8\8.1\1_struct\1_struct\1_struct.c(18,17): warning C4101: “sarr”: 未引用的局部变量
+  1_struct.vcxproj -> D:\VS2022_Code\Code_11_11_8\8.1\1_struct\x64\Debug\1_struct.exe
