@@ -24,7 +24,7 @@ int main()
 	//¿ÉÒÔ¼òĞ´Îª£º
 	a += 3;
 	b *= 5;
-	printf("a=%d\n", a);
-	printf("=%d\n", b);
+	printf("a = %d\n", a);
+	printf("b = %d\n", b);
 	return 0;
 }
