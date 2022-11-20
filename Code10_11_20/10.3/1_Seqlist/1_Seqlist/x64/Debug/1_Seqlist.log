@@ -1,0 +1,3 @@
+﻿  1_Seqlist.cpp
+D:\VS2022_Code\Code_11_20_10\10.3\1_Seqlist\1_Seqlist\1_Seqlist.cpp(62,11): warning C4101: “del”: 未引用的局部变量
+  1_Seqlist.vcxproj -> D:\VS2022_Code\Code_11_20_10\10.3\1_Seqlist\x64\Debug\1_Seqlist.exe
